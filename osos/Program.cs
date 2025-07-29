@@ -6,7 +6,8 @@
         {
            int x = 10;
             int y = 20;
-            Console.WriteLine(x+y);
+            int z = 30;
+            Console.WriteLine(x+y+z);
         }
     }
 }
